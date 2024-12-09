@@ -38,6 +38,8 @@
     <string name="welcome_back">Welcome Back to Note</string>
     <string name="note">Note</string>
     <string name="human">Save</string>
+    <string name="des_email">email</string>
+    <string name="des_password">password</string>
 
 
 </resources>

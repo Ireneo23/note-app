@@ -110,6 +110,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
+        android:contentDescription="@string/des_email"
         app:layout_constraintTop_toBottomOf="@+id/textsignin"
         app:placeholderText="ex: example@abc.com"
         app:startIconTint="@color/orange">
@@ -135,6 +136,7 @@
         android:layout_marginTop="40dp"
         android:layout_marginEnd="32dp"
         android:hint="@string/password"
+        android:contentDescription="@string/des_password"
         android:textColorHint="@color/dark"
         app:boxBackgroundColor="@null"
         app:boxBackgroundMode="outline"

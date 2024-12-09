@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="com.example.practise01" />
-                  <option name="mobileSdkAppId" value="1:416379826936:android:a7e8f869e9e20e07e5c10d" />
-                  <option name="projectId" value="iptfinalproject-fd5eb" />
-                  <option name="projectNumber" value="416379826936" />
+                  <option name="appId" value="com.example.note" />
+                  <option name="mobileSdkAppId" value="1:741074714793:android:027569928a6084016be9b8" />
+                  <option name="projectId" value="note-c862b" />
+                  <option name="projectNumber" value="741074714793" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
